@@ -2,7 +2,7 @@
 
 
 #### Conhecimento em:
-<img src="https://raw.githubusercontent.com/learnbr/python/master/logo.png" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="30" height="30"/><img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" width="30" height="30"/><img src="https://logospng.org/download/css-3/logo-css-3-2048.png" width="30" height="30"/><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/learnbr/python/master/logo.png" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" width="30" height="30"/><img src="https://logospng.org/download/css-3/logo-css-3-2048.png" width="30" height="30"/><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="30" height="30"/>
 
 
 #### Estudando:
