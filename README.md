@@ -11,7 +11,7 @@
 
 <div align="center">
   <h3>Languages and Tools:</h3>
-  <img  src="https://res.cloudinary.com/dpfsh1mja/image/upload/s--c8ndYUaC--/v1649602489/fundo_12_pplovi.png">
+  <img  src="https://res.cloudinary.com/dpfsh1mja/image/upload/s--J6GhP5jX--/v1649603727/imagem_git_kyrsjb.png">
 </div>
 
 
