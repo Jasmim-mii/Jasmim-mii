@@ -1,25 +1,28 @@
-- 👋 Hi, I’m Michele
+<div align="center">
+ <h2> Hi there, I’m Michele 👋 </h2>
+   I'm student web developer currently looking for new opportunities
+</div></br>
 
-
-#### Conhecimento em:
-<img src="https://raw.githubusercontent.com/learnbr/python/master/logo.png" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" width="30" height="30"/><img src="https://logospng.org/download/css-3/logo-css-3-2048.png" width="30" height="30"/><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="30" height="30"/>
-
-
-#### Estudando:
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="35" height="35"/>
-
-
-
-<div>
-<a href="https://github.com/Jasmim-mii">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasmim-mii&layout=compact&langs_count=20&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jasmim-mii&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/michele-jasmim-a30a3321a" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href=""><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
 </div>
-<!---
-Jasmim-mii/Jasmim-mii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
-  
+<div align="center">
+  <h3>Languages and Tools:</h3>
+  <img  src="https://res.cloudinary.com/dpfsh1mja/image/upload/s--c8ndYUaC--/v1649602489/fundo_12_pplovi.png">
+</div>
+
+
+<div align="center">
+  <a href="https://github.com/Jasmim-mii">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasmim-mii&layout=compact&langs_count=20&theme=dracula"/>
+  </a>
+  <a href="https://github.com/Jasmim-mii">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jasmim-mii&theme=dracula" alt="jasmim"/>
+  </a>
+</div>
+
+
   
