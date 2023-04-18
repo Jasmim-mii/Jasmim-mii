@@ -6,12 +6,11 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/michele-jasmim-a30a3321a" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  <a href=""><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
 </div>
 
 <div align="center">
   <h3>Languages and Tools:</h3>
-  <img  src="https://res.cloudinary.com/dpfsh1mja/image/upload/s--J6GhP5jX--/v1649603727/imagem_git_kyrsjb.png">
+  <img  src="github.png">
 </div>
 
 
