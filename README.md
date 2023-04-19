@@ -10,7 +10,11 @@
 
 <div align="center">
   <h3>Languages and Tools:</h3>
-  <img  src="github.png">
+  <img  src="github(1).png">
+</div>
+<div align="center">
+  <h3>learning</h3>
+  <img src="vuejsphoto.png">
 </div>
 
 
