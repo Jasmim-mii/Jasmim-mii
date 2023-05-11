@@ -18,7 +18,7 @@
  
 <div align="">
   <a href="https://github.com/Jasmim-mii">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasmim-mii&layout=done&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasmim-mii&layout=compact&theme=dracula&langs_count=10"/>
   </a>
   <a href="https://github.com/Jasmim-mii">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jasmim-mii&theme=dracula" alt="jasmim"/>
